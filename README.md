@@ -26,3 +26,7 @@ Python pip installs needed:
  * Flask
  * Sqlalchemy
  
+Resources used:
+ * Udacity tutorials
+ * Stack Overflow
+ * GitHub repos
